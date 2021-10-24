@@ -1,0 +1,13 @@
+body{
+    margin: 2000;
+    padding: 0;
+    margin-right: 150px;
+    margin-left: 100px;
+    /*background-color: #CCECE3;*/
+    background-image: url(/css/fondo.jpg);
+    
+    font-family: cursive;
+}
+
+body { background-image: url("imagenes/fondo.jpg") }
+
